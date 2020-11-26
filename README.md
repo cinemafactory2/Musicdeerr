@@ -1,13 +1,13 @@
 <h1 align="center">
 
-  <a href="https://github.com/cachecleanerjeet/Musicder"><img src="https://repository-images.githubusercontent.com/291051734/39ec7780-eab5-11ea-9f0a-d51066507425" alt="Musicder" width="400"></a>
+  <a href="https://github.com/cinemafactory2/Musicder"><img src="https://repository-images.githubusercontent.com/291051734/39ec7780-eab5-11ea-9f0a-d51066507425" alt="Musicder" width="400"></a>
  <br>
 <p>
-  <a href="https://www.codefactor.io/repository/github/cachecleanerjeet/musicder">
-    <img src="https://www.codefactor.io/repository/github/cachecleanerjeet/musicder/badge"
+  <a href="https://www.codefactor.io/repository/github/cinemafactory2/musicder">
+    <img src="https://www.codefactor.io/repository/github/cinemafactory2/musicder/badge"
          alt="Codefactor">
   </a>
-    <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fcachecleanerjeet%2FMusicder?ref=badge_shield">
+    <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fcinemafactory2%2FMusicder?ref=badge_shield">
       <img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcachecleanerjeet%2FMusicder.svg?type=shield"
         alt="Fossa">
   </a>
