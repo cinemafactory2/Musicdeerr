@@ -1,2 +1,1 @@
-User-agent: *Sitemap:
- https://musicder.vercel.app/sitemap.xml
+sitemap: https://a238889.sitemaphosting5.com/4206288/sitemap.xml
