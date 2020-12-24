@@ -71,7 +71,7 @@ function share() {
     if (navigator.share) {
         navigator.share({
                 title: 'Share | Musicder',
-                text: "Listen " + songn + " on Musicder." + "\n\n👉",
+                text: "Get this awesome " + songn + " on Musicder." + "\n\n👉" + "visit edapazhassi media https://www.edapazhassimedia.ml,
                 url: window.location.href
             }).then(() => {
                 console.log('Thanks for Sharing!');
