@@ -1,6 +1,6 @@
 {
-    "name": "EDAPAZHASSI MEDIA",
-    "short_name": "©2021 EDAPAZHASSI MEDIA, Inc",
+    "name": "©2021 EDAPAZHASSI MEDIA, Inc",
+    "short_name": "EDAPAZHASSI MEDIA",
     "description": "Enjoy Music for Free",
     "display": "standalone",
     "start_url": "/?t=pwa",
